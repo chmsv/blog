@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className='bg-accent-1 border-t border-accent-2'>
       <Container>
         <div className='flex flex-col p-10 md:p-16'>
-          <h6 className='text-дп md:text-xl font-semibold tracking-tighter leading-tight'>
+          <h6 className='text-lg md:text-xl font-semibold tracking-tighter leading-tight'>
             <span
               role='img'
               aria-label='email'
